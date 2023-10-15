@@ -1,0 +1,15 @@
+{
+  "name": "upload",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ExternalAddress4401",
+  "license": "ISC",
+  "dependencies": {
+    "esbuild": "^0.19.4",
+    "frida-il2cpp-bridge": "^0.9.0"
+  }
+}
